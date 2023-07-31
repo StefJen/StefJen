@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @StefJen
-- 👀 I’m interested in ... Forecasting, Inventory optimization, Supply Chain Management
+- 👀 I’m interested in ... Forecasting, Inventory optimization, Supply Chain Management, SAP IBP
 - 🌱 I’m currently learning ... R
-- 💞️ I’m looking to collaborate on ... Forecasting
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... Forecasting, Supply Chain Planning
 
 <!---
 StefJen/StefJen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
